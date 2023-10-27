@@ -8,4 +8,9 @@ how to add:
 5. go to chrome://extensions
 6. click load unpacked and add the folder
 
-done!
+done! 
+
+end result preview example~
+
+
+<img width="342" alt="preview" src="https://github.com/chione1891/chromium-status-cafe-extension-/assets/67738767/3a3e9d9f-45e3-4387-8187-c3a62f40eb2f">
